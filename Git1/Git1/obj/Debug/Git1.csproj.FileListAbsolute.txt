@@ -5,3 +5,10 @@ E:\21группа 2018\Git1\Git1\obj\Debug\Git1.csprojAssemblyReference.cache
 E:\21группа 2018\Git1\Git1\obj\Debug\Git1.csproj.CoreCompileInputs.cache
 E:\21группа 2018\Git1\Git1\obj\Debug\Git1.exe
 E:\21группа 2018\Git1\Git1\obj\Debug\Git1.pdb
+E:\21_2018\SK\Git1\Git1\bin\Debug\Git1.exe.config
+E:\21_2018\SK\Git1\Git1\bin\Debug\Git1.exe
+E:\21_2018\SK\Git1\Git1\bin\Debug\Git1.pdb
+E:\21_2018\SK\Git1\Git1\obj\Debug\Git1.csprojAssemblyReference.cache
+E:\21_2018\SK\Git1\Git1\obj\Debug\Git1.csproj.CoreCompileInputs.cache
+E:\21_2018\SK\Git1\Git1\obj\Debug\Git1.exe
+E:\21_2018\SK\Git1\Git1\obj\Debug\Git1.pdb
